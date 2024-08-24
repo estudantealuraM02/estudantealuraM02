@@ -1,9 +1,14 @@
-## Hi there 👋
+### boas vindas ao perfil🤯
 
-<!--
-**estudantealuraM02/estudantealuraM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O meu nome é **Matheus**
 
-Here are some ideas to get you started:
+Estou desenvolvendo SCRATCH e java Script.
+
+![corintians](https://media.tenor.com/nX3BdES-doYAAAAi/timao.gif)
+
+meu **curriculo profissional**
+
+https://drive.google.com/drive/home
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
